@@ -1,4 +1,4 @@
-# TML25_A3_[YourTeamNumber] - Adversarial Robustness Assignment
+# TML25_A3_7 - Adversarial Robustness Assignment
 
 ## Overview
 This project implements adversarial training for building robust deep learning classifiers that can withstand adversarial attacks while maintaining good clean accuracy. The goal is to train a model that performs well on both clean data and adversarial examples generated using Fast Gradient Sign Method (FGSM) and Projected Gradient Descent (PGD).
